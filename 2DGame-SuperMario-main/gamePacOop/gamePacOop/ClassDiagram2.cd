@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="gamePacOop.primaryForm">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIBAAACAAABAAAACAAAACAAAYAAAAAGAAAABAAAA=</HashCode>
+      <FileName>primaryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gamePacOop.Form1">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAhAAAACCIAECAAAAIAYAAAYAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gamePacOop.endForm">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAABAAAACAAAACAABYAAAAAGAAAAAAAAA=</HashCode>
+      <FileName>endForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,39 @@
+D:\Study\OOP\Week13\gamePacOop\gamePacOop\obj\Debug\gamePacOop.csproj.AssemblyReference.cache
+D:\Study\OOP\Week13\gamePacOop\gamePacOop\obj\Debug\gamePacOop.Properties.Resources.resources
+D:\Study\OOP\Week13\gamePacOop\gamePacOop\obj\Debug\gamePacOop.csproj.GenerateResource.cache
+D:\Study\OOP\Week13\gamePacOop\gamePacOop\obj\Debug\gamePacOop.csproj.CoreCompileInputs.cache
+D:\Study\OOP\Week13\gamePacOop\gamePacOop\bin\Debug\gamePacOop.exe.config
+D:\Study\OOP\Week13\gamePacOop\gamePacOop\bin\Debug\gamePacOop.exe
+D:\Study\OOP\Week13\gamePacOop\gamePacOop\bin\Debug\gamePacOop.pdb
+D:\Study\OOP\Week13\gamePacOop\gamePacOop\bin\Debug\EZInput.dll
+D:\Study\OOP\Week13\gamePacOop\gamePacOop\bin\Debug\EZInput.xml
+D:\Study\OOP\Week13\gamePacOop\gamePacOop\obj\Debug\gamePacOop.csproj.CopyComplete
+D:\Study\OOP\Week13\gamePacOop\gamePacOop\obj\Debug\gamePacOop.exe
+D:\Study\OOP\Week13\gamePacOop\gamePacOop\obj\Debug\gamePacOop.pdb
+D:\Study\OOP\Week13\gamePacOop\gamePacOop\obj\Debug\gamePacOop.Form1.resources
+C:\Users\softTech\Downloads\gamePacOop\gamePacOop\gamePacOop\bin\Debug\gamePacOop.exe.config
+C:\Users\softTech\Downloads\gamePacOop\gamePacOop\gamePacOop\bin\Debug\gamePacOop.exe
+C:\Users\softTech\Downloads\gamePacOop\gamePacOop\gamePacOop\bin\Debug\gamePacOop.pdb
+C:\Users\softTech\Downloads\gamePacOop\gamePacOop\gamePacOop\bin\Debug\EZInput.dll
+C:\Users\softTech\Downloads\gamePacOop\gamePacOop\gamePacOop\bin\Debug\EZInput.xml
+C:\Users\softTech\Downloads\gamePacOop\gamePacOop\gamePacOop\obj\Debug\gamePacOop.csproj.AssemblyReference.cache
+C:\Users\softTech\Downloads\gamePacOop\gamePacOop\gamePacOop\obj\Debug\gamePacOop.Form1.resources
+C:\Users\softTech\Downloads\gamePacOop\gamePacOop\gamePacOop\obj\Debug\gamePacOop.Properties.Resources.resources
+C:\Users\softTech\Downloads\gamePacOop\gamePacOop\gamePacOop\obj\Debug\gamePacOop.csproj.GenerateResource.cache
+C:\Users\softTech\Downloads\gamePacOop\gamePacOop\gamePacOop\obj\Debug\gamePacOop.csproj.CoreCompileInputs.cache
+C:\Users\softTech\Downloads\gamePacOop\gamePacOop\gamePacOop\obj\Debug\gamePacOop.csproj.CopyComplete
+C:\Users\softTech\Downloads\gamePacOop\gamePacOop\gamePacOop\obj\Debug\gamePacOop.exe
+C:\Users\softTech\Downloads\gamePacOop\gamePacOop\gamePacOop\obj\Debug\gamePacOop.pdb
+C:\Users\softTech\Desktop\GUI\gamePacOop - Copy (2)\gamePacOop\gamePacOop\bin\Debug\gamePacOop.exe.config
+C:\Users\softTech\Desktop\GUI\gamePacOop - Copy (2)\gamePacOop\gamePacOop\bin\Debug\gamePacOop.exe
+C:\Users\softTech\Desktop\GUI\gamePacOop - Copy (2)\gamePacOop\gamePacOop\bin\Debug\gamePacOop.pdb
+C:\Users\softTech\Desktop\GUI\gamePacOop - Copy (2)\gamePacOop\gamePacOop\bin\Debug\EZInput.dll
+C:\Users\softTech\Desktop\GUI\gamePacOop - Copy (2)\gamePacOop\gamePacOop\bin\Debug\EZInput.xml
+C:\Users\softTech\Desktop\GUI\gamePacOop - Copy (2)\gamePacOop\gamePacOop\obj\Debug\gamePacOop.csproj.AssemblyReference.cache
+C:\Users\softTech\Desktop\GUI\gamePacOop - Copy (2)\gamePacOop\gamePacOop\obj\Debug\gamePacOop.Form1.resources
+C:\Users\softTech\Desktop\GUI\gamePacOop - Copy (2)\gamePacOop\gamePacOop\obj\Debug\gamePacOop.Properties.Resources.resources
+C:\Users\softTech\Desktop\GUI\gamePacOop - Copy (2)\gamePacOop\gamePacOop\obj\Debug\gamePacOop.csproj.GenerateResource.cache
+C:\Users\softTech\Desktop\GUI\gamePacOop - Copy (2)\gamePacOop\gamePacOop\obj\Debug\gamePacOop.csproj.CoreCompileInputs.cache
+C:\Users\softTech\Desktop\GUI\gamePacOop - Copy (2)\gamePacOop\gamePacOop\obj\Debug\gamePacOop.csproj.CopyComplete
+C:\Users\softTech\Desktop\GUI\gamePacOop - Copy (2)\gamePacOop\gamePacOop\obj\Debug\gamePacOop.exe
+C:\Users\softTech\Desktop\GUI\gamePacOop - Copy (2)\gamePacOop\gamePacOop\obj\Debug\gamePacOop.pdb
